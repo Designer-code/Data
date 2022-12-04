@@ -87,20 +87,7 @@
         "isNative": false,
 		"background": "#CFF5E7"
       },
-	  
-	  {
-	   "title": "All the pretty horses",
-        "image": "https://i.postimg.cc/SxkLhMQ9/all-the-pretty-horses.jpg",
-		"color": "#000000",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "رابط الفيلم",
-		"setLink": "https://www.facebook.com/100066507642222/videos/407341497533151/",
-        "image_link": "",
-		"text":"يتوجه اثنان من رعاة البقر في تكساس إلى المكسيك بحثًا عن عمل ، لكن سرعان ما يجدان نفسيهما في مشكلة مع القانون بعد أن يقع أحدهما في حب ابنة صاحب مزرعة ثريّة.",
-        "isNative": false,
-		"background": "#DC5F00"
-      },
+	 
 	  
 	  {
 	   "title": "Suicide Squad",
