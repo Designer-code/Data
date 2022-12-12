@@ -2,19 +2,19 @@
   "GuideData": {
     "AdsController": {
 
-	 "BannerAdsAc1": "admob",
-	 "BannerAdsAc2": "facebook",
+	 "BannerAdsAc1": "facebook",
+	 "BannerAdsAc2": "admob",
 	 "BannerAdsAc3": "admob",
 	    
 	 "InterAdsAc0": "max",
 	 "InterAdsAc1": "admob",
 	 "InterAdsAc2": "max",
-	 "InterAdsAc3": "facebook",
+	 "InterAdsAc3": "max",
 	    
 	 "NativeAdsAc1": "admob",
 	 "NativeAdsAc2": "facebook",
 	 "NativeAdsAc3": "admob",
-	 "NativeAdsAc4": "facebook",
+	 "NativeAdsAc4": "max",
 	 "NativeAdsAc5": "facebook",
 
 		
